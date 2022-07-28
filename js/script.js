@@ -339,11 +339,11 @@ Because this var will be requered in other functions. Same thing with timer
 */
 let currentAccount, timer;
 // faking loggin for developing purposes
-/* currentAccount = account1;
+currentAccount = account1;
 updateUserUI(currentAccount);
 containerApp.classList.remove('hidden');
 loginWindow.classList.add('hidden');
-btnLogOut.classList.remove('hidden'); */
+btnLogOut.classList.remove('hidden');
 
 // Login to user's account
 btnLogin.addEventListener('click', function (event) {

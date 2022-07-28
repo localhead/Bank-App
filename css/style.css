@@ -76,9 +76,7 @@ nav {
 .logout__btn:hover,
 .logout__btn:focus {
   outline: none;
-  color: rgb(12, 12, 12);
-  background: rgb(187, 187, 187);
-  box-shadow: 0 0 5px rgba(121, 121, 121, 0.2);
+  background: rgb(56, 56, 56);
   transition: 0.8s ease;
 }
 
