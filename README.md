@@ -1,3 +1,3 @@
 # Mannlichen-Bank-App
 
-##Stack: HTML / CSS / Javascript
+## Stack: HTML / CSS / Javascript
