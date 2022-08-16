@@ -1,4 +1,4 @@
-# Mannlichen-Bank-App
+# Mannlichen Bank Application
 
 ## Stack: HTML / CSS / Javascript
 
